@@ -1,3 +1,5 @@
+>测试 example/quick_start ， 切换到tag=v2.0
+
 # Blade Build System
 
 [![license NewBSD](https://img.shields.io/badge/License-NewBSD-yellow.svg)](COPYING)
